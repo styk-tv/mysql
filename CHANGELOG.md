@@ -3,22 +3,6 @@ mysql Cookbook CHANGELOG
 This file is used to list changes made in each version of the mysql cookbook.
 
 
-v4.0.10
--------
-fixing metadata version error. locking to 3.0
-
-
-v4.0.8
-------
-Locking yum dependency to '< 3'
-
-
-v4.0.6
-------
-# Bug
-- [COOK-3943] Notifying service restart on grants update
-
-
 v4.0.4
 ------
 [COOK-3952] - Adding 'recursive true' to directory resources
